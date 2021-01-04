@@ -4,7 +4,7 @@ Image processing in matlab (Digital signal processing)
 # Info
 Testing of couple imege processing methods.
 
-In file suodattimet2d.m is testing of two-dimensional filters like convolution mask and Laplace-mask.
+In file suodattimet2d.m I test how two-dimensional filters like convolution mask and Laplace-mask work.
 
 In file taajuustaso_suodattaminen.m I test how filtering works in frequency domain.
 
